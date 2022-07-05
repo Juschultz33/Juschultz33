@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](justin is cool.png)
 <!--
 **Juschultz33/Juschultz33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
