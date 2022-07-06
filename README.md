@@ -1,6 +1,8 @@
-### Hi there 👋
 ![alt text](https://github.com/Juschultz33/Juschultz33/blob/master/justin%20is%20cool.png)
 
+### Hi there 👋, I'm Justin Schultz
+#### I'm a Data Science Student at Brigham Young University - Idaho
+##### Feel free to take a look at my [Resume](https://github.com/BryceBlignaut/BryceBlignaut/blob/main/Resume_updated%202022.pdf)
 <!--
 **Juschultz33/Juschultz33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
