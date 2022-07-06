@@ -1,6 +1,6 @@
 ### Hi there 👋
+![alt text](https://github.com/Juschultz33/Juschultz33/blob/master/justin%20is%20cool.png)
 
-[![](justin is cool.png)](https://github.com/Juschultz33/Juschultz33/blob/master/justin%20is%20cool.png)
 <!--
 **Juschultz33/Juschultz33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
